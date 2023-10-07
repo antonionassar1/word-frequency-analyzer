@@ -2,8 +2,8 @@ from classes.argument import ArgumentParser
 from classes.file import FileHandler
 from classes.word import WordAnalyzer
 
-__author__ = "Your Name"
-__license__ = "Your License"
+__author__ = "Antonio Nassar"
+__license__ = "Emerton Data"
 
 def main():
     args_parser = ArgumentParser()
